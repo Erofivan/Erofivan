@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Erofeev
 - 👀 I’m interested in sport and CS
-- 🌱 I’m always learning something new
+- 🌱 I always learn something new
 - ✨ Student of ITMO SE
 
 <!---
